@@ -20,3 +20,10 @@ We spent 3 weeks coding, debugging, and ensuring players weren’t unfairly elim
  🔊 Pygame Mixer – Immersive sound effects
 
 
+ ![WhatsApp Image 2025-03-24 at 13 02 33_6b78864d](https://github.com/user-attachments/assets/a012050f-dd55-4d78-8d0f-86f216021c09)
+![24 03 2025_12 58 58_REC](https://github.com/user-attachments/assets/7b1783df-868d-4a88-9286-bc4884dae537)
+![24 03 2025_12 59 52_REC](https://github.com/user-attachments/assets/a75c688e-ed39-49c3-b17c-2736ec28e451)
+![24 03 2025_13 00 22_REC](https://github.com/user-attachments/assets/d54d072f-bd24-4c68-b88f-4deb8159bc9f)
+
+
+
